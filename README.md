@@ -1,3 +1,10 @@
+# Spring Framework's ApplicationContext Hello World Sample
+
+- This sample defines HelloWorld class bean in beans.xml file
+- It sets bean Message property to Hello World
+- Then gets bean instance using ApplicationContext class and prints the message on screen
+- It also demonstrates that bean instance gets created at the time of container creation
+
 # ApplicationContext Concepts
 
 - It provides advanced IoC functionality
